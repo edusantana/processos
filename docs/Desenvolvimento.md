@@ -6,6 +6,10 @@ Instruções
 bash -c algo
 ```
 
+# Ambiente de desenvolvimento local
+
+Primeiro passo é configurar um ambiente de desenvolvimento local.
+
 # Manutenção de Projeto
 
 ## Documentação em README
