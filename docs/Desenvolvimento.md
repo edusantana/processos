@@ -19,6 +19,8 @@ Todo projeto deve ter um arquivo README.md que contém:
 
 Caso o projeto não tenha essas informações, o desenvolvedor deve...
 
+Precisa ter instruções para o Windows e Linux
+
 ## Documentação em código
 
 Descrição de como deve ser realizada...
